@@ -1,2 +1,2 @@
-# registeration-server
-Eureka Registration Server 
+# microservices-registeration
+Registeration Microservices
